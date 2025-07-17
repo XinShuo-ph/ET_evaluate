@@ -1,0 +1,192 @@
+[
+  {
+    "batch": 0,
+    "checkpoint_path": "/pscratch/sd/x/xinshuo/takehome/checkpoints/checkpoint-e0-b0.pt",
+    "compilation_success": false,
+    "simulation_success": false,
+    "plt_files_count": 0,
+    "header_bleu_score": 0.0,
+    "rho_energy_similarity": 0.0,
+    "total_score": 0.0
+  },
+  {
+    "batch": 10,
+    "checkpoint_path": "/pscratch/sd/x/xinshuo/takehome/checkpoints/checkpoint-e0-b10.pt",
+    "compilation_success": false,
+    "simulation_success": false,
+    "plt_files_count": 0,
+    "header_bleu_score": 0.0,
+    "rho_energy_similarity": 0.0,
+    "total_score": 0.0
+  },
+  {
+    "batch": 20,
+    "checkpoint_path": "/pscratch/sd/x/xinshuo/takehome/checkpoints/checkpoint-e0-b20.pt",
+    "compilation_success": true,
+    "simulation_success": true,
+    "plt_files_count": 5,
+    "header_bleu_score": 0.17613187996887708,
+    "rho_energy_similarity": 0.9390590132115675,
+    "total_score": 0.7787977232951111
+  },
+  {
+    "batch": 30,
+    "checkpoint_path": "/pscratch/sd/x/xinshuo/takehome/checkpoints/checkpoint-e0-b30.pt",
+    "compilation_success": false,
+    "simulation_success": false,
+    "plt_files_count": 0,
+    "header_bleu_score": 0.0,
+    "rho_energy_similarity": 0.0,
+    "total_score": 0.0
+  },
+  {
+    "batch": 40,
+    "checkpoint_path": "/pscratch/sd/x/xinshuo/takehome/checkpoints/checkpoint-e0-b40.pt",
+    "compilation_success": false,
+    "simulation_success": false,
+    "plt_files_count": 0,
+    "header_bleu_score": 0.0,
+    "rho_energy_similarity": 0.0,
+    "total_score": 0.0
+  },
+  {
+    "batch": 50,
+    "checkpoint_path": "/pscratch/sd/x/xinshuo/takehome/checkpoints/checkpoint-e0-b50.pt",
+    "compilation_success": true,
+    "simulation_success": true,
+    "plt_files_count": 5,
+    "header_bleu_score": 0.17613187996887708,
+    "rho_energy_similarity": 0.9390590132115675,
+    "total_score": 0.7787977232951111
+  },
+  {
+    "batch": 60,
+    "checkpoint_path": "/pscratch/sd/x/xinshuo/takehome/checkpoints/checkpoint-e0-b60.pt",
+    "compilation_success": false,
+    "simulation_success": false,
+    "plt_files_count": 0,
+    "header_bleu_score": 0.0,
+    "rho_energy_similarity": 0.0,
+    "total_score": 0.0
+  },
+  {
+    "batch": 70,
+    "checkpoint_path": "/pscratch/sd/x/xinshuo/takehome/checkpoints/checkpoint-e0-b70.pt",
+    "compilation_success": false,
+    "simulation_success": false,
+    "plt_files_count": 0,
+    "header_bleu_score": 0.0,
+    "rho_energy_similarity": 0.0,
+    "total_score": 0.0
+  },
+  {
+    "batch": 80,
+    "checkpoint_path": "/pscratch/sd/x/xinshuo/takehome/checkpoints/checkpoint-e0-b80.pt",
+    "compilation_success": true,
+    "simulation_success": true,
+    "plt_files_count": 5,
+    "header_bleu_score": 0.17613187996887708,
+    "rho_energy_similarity": 0.9390590132115675,
+    "total_score": 0.7787977232951111
+  },
+  {
+    "batch": 90,
+    "checkpoint_path": "/pscratch/sd/x/xinshuo/takehome/checkpoints/checkpoint-e0-b90.pt",
+    "compilation_success": false,
+    "simulation_success": false,
+    "plt_files_count": 0,
+    "header_bleu_score": 0.0,
+    "rho_energy_similarity": 0.0,
+    "total_score": 0.0
+  },
+  {
+    "batch": 100,
+    "checkpoint_path": "/pscratch/sd/x/xinshuo/takehome/checkpoints/checkpoint-e0-b100.pt",
+    "compilation_success": false,
+    "simulation_success": false,
+    "plt_files_count": 0,
+    "header_bleu_score": 0.0,
+    "rho_energy_similarity": 0.0,
+    "total_score": 0.0
+  },
+  {
+    "batch": 110,
+    "checkpoint_path": "/pscratch/sd/x/xinshuo/takehome/checkpoints/checkpoint-e0-b110.pt",
+    "compilation_success": false,
+    "simulation_success": false,
+    "plt_files_count": 0,
+    "header_bleu_score": 0.0,
+    "rho_energy_similarity": 0.0,
+    "total_score": 0.0
+  },
+  {
+    "batch": 120,
+    "checkpoint_path": "/pscratch/sd/x/xinshuo/takehome/checkpoints/checkpoint-e0-b120.pt",
+    "compilation_success": false,
+    "simulation_success": false,
+    "plt_files_count": 0,
+    "header_bleu_score": 0.0,
+    "rho_energy_similarity": 0.0,
+    "total_score": 0.0
+  },
+  {
+    "batch": 130,
+    "checkpoint_path": "/pscratch/sd/x/xinshuo/takehome/checkpoints/checkpoint-e0-b130.pt",
+    "compilation_success": false,
+    "simulation_success": false,
+    "plt_files_count": 0,
+    "header_bleu_score": 0.0,
+    "rho_energy_similarity": 0.0,
+    "total_score": 0.0
+  },
+  {
+    "batch": 140,
+    "checkpoint_path": "/pscratch/sd/x/xinshuo/takehome/checkpoints/checkpoint-e0-b140.pt",
+    "compilation_success": true,
+    "simulation_success": true,
+    "plt_files_count": 5,
+    "header_bleu_score": 0.17613187996887708,
+    "rho_energy_similarity": 0.9390590132115675,
+    "total_score": 0.7787977232951111
+  },
+  {
+    "batch": 150,
+    "checkpoint_path": "/pscratch/sd/x/xinshuo/takehome/checkpoints/checkpoint-e0-b150.pt",
+    "compilation_success": false,
+    "simulation_success": false,
+    "plt_files_count": 0,
+    "header_bleu_score": 0.0,
+    "rho_energy_similarity": 0.0,
+    "total_score": 0.0
+  },
+  {
+    "batch": 160,
+    "checkpoint_path": "/pscratch/sd/x/xinshuo/takehome/checkpoints/checkpoint-e0-b160.pt",
+    "compilation_success": true,
+    "simulation_success": true,
+    "plt_files_count": 5,
+    "header_bleu_score": 0.17613187996887708,
+    "rho_energy_similarity": 0.9390590132115675,
+    "total_score": 0.7787977232951111
+  },
+  {
+    "batch": 170,
+    "checkpoint_path": "/pscratch/sd/x/xinshuo/takehome/checkpoints/checkpoint-e0-b170.pt",
+    "compilation_success": false,
+    "simulation_success": false,
+    "plt_files_count": 0,
+    "header_bleu_score": 0.0,
+    "rho_energy_similarity": 0.0,
+    "total_score": 0.0
+  },
+  {
+    "batch": 180,
+    "checkpoint_path": "/pscratch/sd/x/xinshuo/takehome/checkpoints/checkpoint-e0-b180.pt",
+    "compilation_success": false,
+    "simulation_success": false,
+    "plt_files_count": 0,
+    "header_bleu_score": 0.0,
+    "rho_energy_similarity": 0.0,
+    "total_score": 0.0
+  }
+]

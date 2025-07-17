@@ -1,0 +1,22 @@
+[
+  {
+    "batch": 0,
+    "checkpoint_path": "/pscratch/sd/x/xinshuo/takehome/checkpoints/checkpoint-e0-b0.pt",
+    "compilation_success": true,
+    "simulation_success": false,
+    "plt_files_count": 0,
+    "header_bleu_score": 0.0,
+    "rho_energy_similarity": 0.0,
+    "total_score": 0.0
+  },
+  {
+    "batch": 10,
+    "checkpoint_path": "/pscratch/sd/x/xinshuo/takehome/checkpoints/checkpoint-e0-b10.pt",
+    "compilation_success": false,
+    "simulation_success": false,
+    "plt_files_count": 0,
+    "header_bleu_score": 0.0,
+    "rho_energy_similarity": 0.0,
+    "total_score": 0.0
+  }
+]
